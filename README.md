@@ -6,7 +6,8 @@ Don't forget to star⭐ the repo if you like what you see😉.
 
 # 📸 Screenshots
 The screenshots below are taken on amy device MI NOTE 5 PRO.
-![showcase](https://user-images.githubusercontent.com/55942632/65833006-fad40600-e2e8-11e9-8ff5-98b89cd39731.png)
+![firebase login and signup phoneauth](https://user-images.githubusercontent.com/55942632/68074484-7251f500-fdc1-11e9-9482-7c5ba6eb3319.png)
+
 
 # ✨ Requirements
 - Any Operating System (ie. MacOS X, Linux, Windows)
