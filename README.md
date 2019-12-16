@@ -1,6 +1,7 @@
 # 📱 Login SignUp Firebase PhoneAuth XML UI 
 
-Don't forget to star⭐ the repo if you like what you see😉.
+Don't forget to star ⭐ the repo if you like what you see 😉.
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 # 📸 Screenshots
 The screenshots below are taken on amy device MI NOTE 5 PRO.
