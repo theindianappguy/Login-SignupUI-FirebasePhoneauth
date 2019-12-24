@@ -3,7 +3,9 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![platform](https://img.shields.io/badge/platform-Android-green.svg)](https://www.android.com)
 
-Don't forget to star ⭐ the repo if you like what you see 😉.
+## Show Support
+* [Recommend Me On LinkedIn](https://www.linkedin.com/in/lamsanskar/) - I will realy Appriciate this
+* Don't forget to star ⭐ the repo 😉, it's FREE.
 
 # Screenshots
 The screenshots below are taken on amy device MI NOTE 5 PRO.
